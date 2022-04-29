@@ -1,4 +1,4 @@
-# ArchLabs i3 config
+# grace i3 config
 
 # border & title
 for_window [class="^.*"] border pixel 2, title_format "<b> %class >> %title </b>"
